@@ -11,3 +11,5 @@ A simple website for easy Syrian recipes.
 Open `index.html` in your browser.
 
 Built while learning in the **Full Stack Course**.
+
+New recipes are added every week.
